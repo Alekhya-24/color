@@ -1,0 +1,61 @@
+* {
+    margin:5px;
+    padding:5px;
+    box-sizing:border-box;
+    background-color: 0000ff;
+} 
+
+body{
+    font-family:inherit;
+    font-size:18px; 
+    color:#090946;
+    
+}
+h1,h2{
+    color:darkslategrey;
+}
+
+  h1 {
+       font size:40px;
+      margin-bottom:10px;
+     }
+  h2   {
+    font-size:30px;
+      margin-bottom:50px;
+     }
+.hole-text{
+    text-align:justify;
+    margin-bottom:5px;
+}
+.container {
+    width 1140px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+}
+
+.paragra {
+    background-color: 0000ff;
+}
+
+.paragraph {
+    background-color: ff0000;
+}
+
+ .ALEKHYA {
+    background-color: ff0000;
+}
+
+.first {
+    background-color: 00ffff;
+}
+
+.second {
+    background-color: ff0000;
+}
+
+.LAST {
+    00ff00;
+}
